@@ -1,0 +1,6 @@
+{
+  "name": "Vektor Analytics - Sales Forecasting & Pipeline Precision",
+  "description": "Enterprise Revenue Operations and AI Sales Forecasting platform bridging CRM pipeline data, executive targets, and sales rep instincts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
